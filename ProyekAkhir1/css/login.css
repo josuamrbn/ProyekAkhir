@@ -1,0 +1,16 @@
+img {
+  text-align: center;
+}
+.btn {
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+.login {
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.login p {
+  color: red;
+  font-style: italic;
+  font-family: poppins;
+}

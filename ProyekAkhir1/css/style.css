@@ -1,0 +1,11 @@
+nav {
+  background-color: rgb(49, 83, 235);
+}
+.index {
+  background: linear-gradient(200deg, rgba(149, 132, 132, 0.484) 50%, rgb(85, 105, 194) 50%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.container {
+  color: white;
+}

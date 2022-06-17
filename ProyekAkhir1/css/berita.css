@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+h3 {
+  color: #202021;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 2px;
+  line-height: 13px;
+}
+h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.floatleft {
+  float: left;
+}
+.center {
+  width: 980px;
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  transition: all 1.3s ease 0s;
+  -moz-transition: all 1.3s ease 0s;
+  -webkit-transition: all 1.3s ease 0s;
+  -o-transition: all 1.3s ease 0s;
+  -ms-transition: all 1.3s ease 0s;
+}
+div {
+  overflow: hidden;
+}
+.slider {
+  height: 550px;
+  overflow: visible;
+}
+.bxslider,
+.bx-viewport,
+.bx-controls,
+.bx-pager,
+.bx-controls-direction {
+  overflow: visible;
+}
+
+.content_area {
+  margin-top: 25px;
+  margin-left: 450px;
+}
+.main_content {
+  width: 670px;
+}
+.title {
+  border-bottom: 4px solid #cf0000;
+  width: 60%;
+  font-family: 'bebasregular';
+  font-size: 20px;
+  word-spacing: 2px;
+  text-align: center;
+}
+.single_center_coloum {
+  margin-left: 10px;
+  width: 200px;
+}
+.single_cat_center_content {
+  border-bottom: 1px dotted #000;
+  width: 220px;
+}
+.single_cat_center_content h3 {
+  font-size: 15px;
+}
+.single_cat_center_content_meta {
+  font-size: 11px;
+}
+.single_cat_center_content_meta span {
+  color: #cf0000;
+}
